@@ -2,8 +2,9 @@
 path: styled-container
 date: 2019-03-19
 title: Styled-Components responsive container.
-subtitle: Responsive Container Component with React and Styled-Components.
+subtitle: Bootstrap - like responsive fluid containers with styled-components, what more could you ask for.
 thumbnail: tbn.jpg
+repo:  https://github.com/glweems/styled-container
 tags:
   - react
   - component
@@ -14,7 +15,11 @@ tags:
 
 # Responsive Container Component with React and Styled-Components.
 
-![](tbn.jpg)
+Bootstrap - like responsive fluid containers with styled-components, what more could you ask for.
+
+![tbn](tbn.jpg)
+
+---
 
 ## Setup
 
@@ -60,7 +65,7 @@ for (const key in ScreenSizes) {
 export default Theme;
 ```
 
-> I like to create a _Theme.js_ file in my src/ directory to store my Theme obj and Breakpoints object.
+> I like to create a `Theme.js` file in my src/ directory to store my Theme obj and Breakpoints object.
 
 ## Usage
 
@@ -75,3 +80,7 @@ const Container = styled.div`
   ${MQ.desktop(`max-width: 1440px`)};
 `;
 ```
+
+There you have it 
+
+`--glweems`
