@@ -5,6 +5,7 @@ title: Styled-Components responsive container.
 subtitle: Bootstrap - like responsive fluid containers with styled-components, what more could you ask for.
 thumbnail: tbn.jpg
 repo:  https://github.com/glweems/styled-container
+codesandbox: null
 tags:
   - react
   - component
