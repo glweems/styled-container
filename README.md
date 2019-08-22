@@ -2,16 +2,15 @@
 path: styled-container
 date: 2019-03-19
 title: Styled-Components responsive container.
+subtitle: Responsive Container Component with React and Styled-Components.
 thumbnail: tbn.jpg
 tags:
   - react
   - component
   - container
   - responsive
-  - styles-components
+  - styled-components
 ---
-
-#responsive-container
 
 # Responsive Container Component with React and Styled-Components.
 
