@@ -1,15 +1,9 @@
 ---
 path: styled-container
-date: 2019-03-19
+date: 2019/03/19
 title: Responsive Container Component with React and Styled-Components.
 subtitle: Bootstrap - like responsive fluid containers with styled-components, what more could you ask for.
 thumbnail: tbn.jpg
-repo:  https://github.com/glweems/styled-container
-git:
-  - github
-  - glweems
-  - styled-container
-  - master
 tags:
   - react
   - component
@@ -18,15 +12,19 @@ tags:
   - styled-components
 ---
 
-![Thumbnail](tbn.jpg)
-
----
-
 ## Setup
 
-First things first you're going to need to install the _styled-components_ node package.
+First things first you're going to need to install the `styled-components` node package.
 
-`npm install --save styled-components`
+```sh
+npm install --save styled-components
+```
+
+or
+
+```sh
+yarn add styled-components
+```
 
 Now we are able to start creating our Theme object.
 
@@ -81,7 +79,3 @@ const Container = styled.div`
   ${MQ.desktop(`max-width: 1440px`)};
 `;
 ```
-
-There you have it
-
-`--glweems`
