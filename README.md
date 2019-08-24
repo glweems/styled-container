@@ -1,24 +1,21 @@
 ---
 path: styled-container
 date: 2019-03-19
-title: Styled-Components responsive container.
+title: Responsive Container Component with React and Styled-Components.
 subtitle: Bootstrap - like responsive fluid containers with styled-components, what more could you ask for.
 thumbnail: tbn.jpg
 repo:  https://github.com/glweems/styled-container
+git:
+  - github
+  - glweems
+  - styled-container
+  - master
 tags:
   - react
   - component
   - container
   - responsive
   - styled-components
----
-
-# Responsive Container Component with React and Styled-Components.
-
-Bootstrap - like responsive fluid containers with styled-components, what more could you ask for.
-
-![tbn](tbn.jpg)
-
 ---
 
 ## Setup
@@ -81,6 +78,6 @@ const Container = styled.div`
 `;
 ```
 
-There you have it 
+There you have it
 
 `--glweems`
