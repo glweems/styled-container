@@ -18,7 +18,7 @@ tags:
   - styled-components
 ---
 
-![Thumbnail](vscode.png)
+![Thumbnail](tbn.jpg)
 
 ---
 
