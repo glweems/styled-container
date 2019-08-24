@@ -18,6 +18,10 @@ tags:
   - styled-components
 ---
 
+![Thumbnail](vscode.png)
+
+---
+
 ## Setup
 
 First things first you're going to need to install the _styled-components_ node package.
