@@ -16,13 +16,13 @@ tags:
 
 First things first you're going to need to install the `styled-components` node package.
 
-```sh
+```shell
 npm install --save styled-components
 ```
 
 or
 
-```sh
+```shell
 yarn add styled-components
 ```
 
